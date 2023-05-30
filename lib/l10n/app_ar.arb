@@ -1,0 +1,25 @@
+
+{
+  " app_title": "لستة المهام",
+  "settings": "الاعدادات",
+  "add_Task": "اضافه مهام",
+  "please_enter_task_title": "ادخل عنوان",
+  "enter_Task_Title": "ادخل عنوان",
+  "please_enter_task_description": "ادخل وصف للمهام",
+  "enter_Task_description": "ادخل وصف للمهام",
+  "select_Date": "اختار تاريخ",
+  "add" : "اضف",
+  "todo_was_added": " تمت الاضافه",
+  "task_was_deleted": "تم المسح",
+  "language": "اللغه",
+  "theme": "النمط",
+  "delete": "مسح",
+  "english": "الانجليزيه",
+  "arabic": "العربيه",
+  "light": "مضيء",
+  "dark": "مظلم",
+  "task_list":"لستة المهام"
+
+
+}
+
